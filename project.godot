@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="ARPG_22"
+config/name="ARPG_23"
 run/main_scene="res://Levels/Area01/01.tscn"
 config/features=PackedStringArray("4.3", "Mobile")
 config/icon="res://icon.svg"
